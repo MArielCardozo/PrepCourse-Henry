@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba, modulo 2 Prep course henry
+Este es un  nuevo proyecto para clonar mi repositorio y mi escritorio
